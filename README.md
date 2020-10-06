@@ -1,5 +1,5 @@
 # hillel-july
 
-hello local
+hello remote
 
 changes from github
